@@ -116,3 +116,11 @@ span{
     text-decoration: none;
     color: lightgray;
 }
+.last{
+    background-color: #282531;
+}
+.last p{
+    text-align: center;
+    color: lightgray;
+    margin-top: 30px;
+}
