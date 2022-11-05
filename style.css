@@ -1,0 +1,98 @@
+.logo{
+    width: 200px;
+}
+.header{
+    background-color: #F0FFF0;
+}
+.button{
+    border-radius: 20px;
+}
+.header-image img{
+    width: 520px;
+    margin-top: 70px;
+    margin-bottom: 80px;
+}
+small{
+    color: #FD511A;
+}
+.green{
+    font-size: 50px;
+    font-weight: 700;
+}
+span{
+    color: #21B573;
+}
+.pra{
+    font-size: 20px;
+}
+.bton{
+    padding: 8px 25px;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+.book{
+    width: 80px;
+    margin: auto;
+}
+.another{
+    height: 85px;
+}
+.center{
+    text-align: center;
+    border-radius: 10px;
+    background-color: #F8FFFB;
+    padding: 20px 20px;
+}
+.sada{
+    background-color: #fff;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.top{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.card{
+    border: none;
+}
+.big{
+    font-weight: 600;
+}
+
+/*section start from here*/
+.head-font{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 60px;
+    font-weight: 600;
+}
+.imgp{
+    padding: 15px 15px;
+}
+.fimg{
+    float: left;
+}
+.fimg img{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+}
+.pad{
+    padding: 6px 10px;
+    margin-left: 10px;
+    font-size: 17px;
+    margin-top: 6px;
+}
+
+/* section stary from here*/
+.test img{
+    width: 100px;
+    margin-left: 250px;
+    float: left;
+}
+.test p{
+    padding: 10px 30px;
+}
+/* section stary from here*/
+.black{
+    background-color: #282531;
+}
