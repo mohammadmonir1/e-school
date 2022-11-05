@@ -95,4 +95,32 @@ span{
 /* section stary from here*/
 .black{
     background-color: #282531;
+    margin-top: 70px;
+}
+.wht{
+    color: #fff;
+    padding: 30px ;
+    font-size: 18px;
+}
+.whit{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 40px;
+    text-align: center;
+}
+.first{
+    width: 150px;
+}
+.first ul li a{
+    text-decoration: none;
+    color: lightgray;
+}
+.footer{
+    background-color: #282531;
+    margin-bottom: 0%;
+}
+.footer p{
+    text-align: center;
+    color: #fff;
 }
